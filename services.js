@@ -49,8 +49,8 @@ const SERVICES = [
 ];
 
 const PROFESSIONALS = [
-  { id: "carol", name: "Carol", initials: "CA" },
-  { id: "suelen", name: "Suelen", initials: "SU" },
+  { id: "carol", name: "Carol", initials: "CA", whatsapp: "5551994728357" },
+  { id: "suelen", name: "Suelen", initials: "SU", whatsapp: "5551985238712" },
 ];
 
 module.exports = { CATEGORIES, SERVICES, PROFESSIONALS };
